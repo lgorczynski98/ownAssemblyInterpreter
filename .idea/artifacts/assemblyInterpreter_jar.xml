@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="assemblyInterpreter:jar">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="assemblyInterpreter.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="assemblyInterpreter" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.7.2/antlr4-runtime-4.7.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6624d4ae-7ae8-4abe-9e76-c4fc86a056c9" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/g.g4">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/assembler/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="method#main#0;class#Main#0" />
+                <element signature="method#instructionHandling#0;class#Main#0" />
+                <element signature="method#hasMultiSpace#0;class#Main#0" />
+                <element signature="method#prepareAntlrParser#0;class#Main#0" />
+                <element signature="method#prepareAntlrParseTree#0;class#Main#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="37" column="32" lean-forward="true" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>T</find>
+      <find>rpn</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Object</replace>
+      <replace>Calculator</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/grammar.g4" />
+        <option value="$PROJECT_DIR$/src/MyVisitor.java" />
+        <option value="$PROJECT_DIR$/src/ErrorListener.java" />
+        <option value="$PROJECT_DIR$/src/com/lgorczynski98/jfk/interpreter/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/lgorczynski98/jfk/antlr/Main.java" />
+        <option value="$PROJECT_DIR$/src/gBaseVisitor.java" />
+        <option value="$PROJECT_DIR$/src/RPN.java" />
+        <option value="$PROJECT_DIR$/src/CurrentInstruction.java" />
+        <option value="$PROJECT_DIR$/src/CurrentRegister.java" />
+        <option value="$PROJECT_DIR$/src/Stack.java" />
+        <option value="$PROJECT_DIR$/src/RegisterSet.java" />
+        <option value="$PROJECT_DIR$/src/Visitor.java" />
+        <option value="$PROJECT_DIR$/src/InfixCalculator.java" />
+        <option value="$PROJECT_DIR$/src/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/Interpreter.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+        <option value="$PROJECT_DIR$/src/main/java/Visitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Calculator.java" />
+        <option value="$PROJECT_DIR$/g.g4" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jfk/assembler/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="assemblyInterpreter" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="assemblyInterpreter" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="assemblyInterpreter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assemblyInterpreter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assemblyInterpreter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assemblyInterpreter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assemblyInterpreter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assemblyInterpreter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assemblyInterpreter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assemblyInterpreter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assemblyInterpreter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assemblyInterpreter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="assembler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assemblyInterpreter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assemblyInterpreter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assemblyInterpreter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assemblyInterpreter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="$PROJECT_DIR$/g.g4::/auto-gen" value="true" />
+    <property name="$PROJECT_DIR$/g.g4::/gen-listener" value="true" />
+    <property name="$PROJECT_DIR$/g.g4::/gen-visitor" value="true" />
+    <property name="$PROJECT_DIR$/g.g4::/output-dir" value="C:\Users\lgorczynski98\OneDrive - Wojskowa Akademia Techniczna\Materialy_FTP\Semestr 5\JFK\insterpreterAssemblera\assemblyInterpreter\src\main\java\com\jfk\assembler" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575021021376" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/jfk/assembler" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lgorczynski98\OneDrive - Wojskowa Akademia Techniczna\Materialy_FTP\Semestr 5\JFK\insterpreterAssemblera\assemblyInterpreter\src\main\java\com\jfk\assembler" />
+      <recent name="C:\Users\lgorczynski98\OneDrive - Wojskowa Akademia Techniczna\Materialy_FTP\Semestr 5\JFK\insterpreterAssemblera\assemblyInterpreter\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jfk.assembler.Main" />
+      <module name="assemblyInterpreter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jfk.assembler.Main" />
+      <module name="assemblyInterpreter" />
+      <option name="PROGRAM_PARAMETERS" value="&lt; inputKamil.txt" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/target/inputKamil.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6624d4ae-7ae8-4abe-9e76-c4fc86a056c9" name="Default Changelist" comment="" />
+      <created>1573037574098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573037574098</updated>
+      <workItem from="1573037578795" duration="72000" />
+      <workItem from="1573037672898" duration="3495000" />
+      <workItem from="1573041206634" duration="4400000" />
+      <workItem from="1573045641479" duration="93000" />
+      <workItem from="1573045756976" duration="1674000" />
+      <workItem from="1573077808191" duration="148000" />
+      <workItem from="1573123427257" duration="1700000" />
+      <workItem from="1573148452641" duration="4340000" />
+      <workItem from="1573207093488" duration="10368000" />
+      <workItem from="1573324804735" duration="7883000" />
+      <workItem from="1573390423715" duration="54000" />
+      <workItem from="1573564704579" duration="969000" />
+      <workItem from="1573569541056" duration="130000" />
+      <workItem from="1573574943247" duration="759000" />
+      <workItem from="1573577007620" duration="720000" />
+      <workItem from="1573826625319" duration="1804000" />
+      <workItem from="1573833381420" duration="16000" />
+      <workItem from="1573834236029" duration="163000" />
+      <workItem from="1573835575692" duration="620000" />
+      <workItem from="1573836564496" duration="61000" />
+      <workItem from="1573896437044" duration="380000" />
+      <workItem from="1573898609637" duration="3848000" />
+      <workItem from="1573902529684" duration="547000" />
+      <workItem from="1573921914536" duration="10000" />
+      <workItem from="1573924491784" duration="1660000" />
+      <workItem from="1573935361200" duration="20000" />
+      <workItem from="1573935701410" duration="11000" />
+      <workItem from="1573942368651" duration="12000" />
+      <workItem from="1574156131160" duration="871000" />
+      <workItem from="1574247283682" duration="392000" />
+      <workItem from="1574248055627" duration="15000" />
+      <workItem from="1574262908847" duration="1604000" />
+      <workItem from="1574268579205" duration="9000" />
+      <workItem from="1574683411137" duration="285000" />
+      <workItem from="1574693152625" duration="3767000" />
+      <workItem from="1574767477113" duration="835000" />
+      <workItem from="1574769489240" duration="827000" />
+      <workItem from="1574774460158" duration="478000" />
+      <workItem from="1574781692175" duration="15000" />
+      <workItem from="1574866984792" duration="104000" />
+      <workItem from="1574873293871" duration="64000" />
+      <workItem from="1574962606260" duration="2868000" />
+      <workItem from="1574974750486" duration="31000" />
+      <workItem from="1575020035680" duration="175000" />
+      <workItem from="1575020241457" duration="791000" />
+      <workItem from="1575021117928" duration="389000" />
+      <workItem from="1575032201876" duration="24000" />
+      <workItem from="1575032307533" duration="142000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="59643000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13965885" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3347779" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42145178" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32932165" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Tool Output" order="12" weight="0.32394367" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="13" weight="0.3900325" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.25460455" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.17910448" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/MyVisitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/ErrorListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/lgorczynski98/interpreter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/assembler/g.interp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/assembler/gBaseListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/assembler/CurrentInstruction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/antlr-4.7.2-complete.jar!/org/antlr/v4/runtime/ParserRuleContext.class" />
+    <entry file="jar://$PROJECT_DIR$/antlr-4.7.2-complete.jar!/org/antlr/v4/runtime/tree/TerminalNodeImpl.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/assembler/gParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="113" selection-start-line="113" selection-end-line="113" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/antlr-4.7.2-complete.jar!/org/antlr/v4/runtime/tree/AbstractParseTreeVisitor.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/assembler/CurrentRegister.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/assembler/RegisterSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding>
+            <element signature="method#RegisterSet#0;class#RegisterSet#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/assembler/gVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/assembler/gBaseVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="32" column="94" lean-forward="true" selection-start-line="32" selection-start-column="94" selection-end-line="32" selection-end-column="94" />
+          <folding>
+            <element signature="docComment;class#gBaseVisitor#0" />
+            <element signature="docComment;method#visitStart#0;class#gBaseVisitor#0" />
+            <element signature="method#visitStart#0;class#gBaseVisitor#0" />
+            <element signature="docComment;method#visitExpr#0;class#gBaseVisitor#0" />
+            <element signature="method#visitExpr#0;class#gBaseVisitor#0" />
+            <element signature="docComment;method#visitInt0x80#0;class#gBaseVisitor#0" />
+            <element signature="method#visitInt0x80#0;class#gBaseVisitor#0" />
+            <element signature="docComment;method#visitPush#0;class#gBaseVisitor#0" />
+            <element signature="method#visitPush#0;class#gBaseVisitor#0" />
+            <element signature="docComment;method#visitMov#0;class#gBaseVisitor#0" />
+            <element signature="method#visitMov#0;class#gBaseVisitor#0" />
+            <element signature="docComment;method#visitXor#0;class#gBaseVisitor#0" />
+            <element signature="method#visitXor#0;class#gBaseVisitor#0" />
+            <element signature="docComment;method#visitOperation#0;class#gBaseVisitor#0" />
+            <element signature="docComment;method#visitTerm#0;class#gBaseVisitor#0" />
+            <element signature="method#visitTerm#0;class#gBaseVisitor#0" />
+            <element signature="docComment;method#visitFactor#0;class#gBaseVisitor#0" />
+            <element signature="method#visitFactor#0;class#gBaseVisitor#0" />
+            <element signature="docComment;method#visitOperand#0;class#gBaseVisitor#0" />
+            <element signature="method#visitOperand#0;class#gBaseVisitor#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/assembler/Visitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+          <folding>
+            <element signature="method#Visitor#0;class#Visitor#0" />
+            <element signature="docComment;method#visitStart#0;class#Visitor#0" />
+            <element signature="method#visitStart#0;class#Visitor#0" />
+            <element signature="docComment;method#visitExpr#0;class#Visitor#0" />
+            <element signature="method#visitExpr#0;class#Visitor#0" />
+            <element signature="e#869#1562#0" />
+            <element signature="e#915#1552#0" />
+            <element signature="e#945#1050#1" />
+            <element signature="e#1079#1184#1" />
+            <element signature="e#1213#1318#1" />
+            <element signature="e#1347#1452#1" />
+            <element signature="e#1590#1654#0" />
+            <element signature="docComment;method#visitInt0x80#0;class#Visitor#0" />
+            <element signature="method#visitInt0x80#0;class#Visitor#0" />
+            <element signature="docComment;method#visitPush#0;class#Visitor#0" />
+            <element signature="method#visitPush#0;class#Visitor#0" />
+            <element signature="docComment;method#visitMov#0;class#Visitor#0" />
+            <element signature="method#visitMov#0;class#Visitor#0" />
+            <element signature="docComment;method#visitXor#0;class#Visitor#0" />
+            <element signature="method#visitXor#0;class#Visitor#0" />
+            <element signature="docComment;method#visitOperation#0;class#Visitor#0" />
+            <element signature="method#visitOperation#0;class#Visitor#0" />
+            <element signature="docComment;method#visitTerm#0;class#Visitor#0" />
+            <element signature="method#visitTerm#0;class#Visitor#0" />
+            <element signature="docComment;method#visitFactor#0;class#Visitor#0" />
+            <element signature="method#visitFactor#0;class#Visitor#0" />
+            <element signature="docComment;method#visitOperand#0;class#Visitor#0" />
+            <element signature="method#visitOperand#0;class#Visitor#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/assembler/Interpreter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="111" selection-start-line="10" selection-start-column="111" selection-end-line="10" selection-end-column="111" />
+          <folding>
+            <element signature="method#runMovExpresion#0;class#Interpreter#0" />
+            <element signature="method#runXorExpresion#0;class#Interpreter#0" />
+            <element signature="method#runXorForSameExpresions#0;class#Interpreter#0" />
+            <element signature="e#758#1142#0" />
+            <element signature="e#781#858#1" />
+            <element signature="e#880#957#1" />
+            <element signature="e#979#1056#1" />
+            <element signature="e#1078#1132#1" />
+            <element signature="method#setCurrentRegisterValue#0;class#Interpreter#0" />
+            <element signature="method#setCurrentRegisterValueAfterXor#0;class#Interpreter#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/assembler/gListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/assembler/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="n#!!block;n#push#0;n#Stack#0" />
+            <element signature="method#pop#0;class#Stack#0" />
+            <element signature="e#299#486#1" />
+            <element signature="e#499#536#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/assembler/InfixCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="60" column="74" lean-forward="true" selection-start-line="60" selection-start-column="74" selection-end-line="60" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/assembler/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding>
+            <element signature="method#Calculator#0;class#Calculator#0" />
+            <element signature="method#setExpresion#0;class#Calculator#0" />
+            <element signature="method#replaceOperators#0;class#Calculator#0" />
+            <element signature="method#replaceRegisters#0;class#Calculator#0" />
+            <element signature="method#calculateExpresion#0;class#Calculator#0" />
+            <element signature="method#xorOperationMatchesRegister#0;class#Calculator#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/g.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jfk/assembler/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="method#main#0;class#Main#0" />
+            <element signature="method#instructionHandling#0;class#Main#0" />
+            <element signature="method#hasMultiSpace#0;class#Main#0" />
+            <element signature="method#prepareAntlrParser#0;class#Main#0" />
+            <element signature="method#prepareAntlrParseTree#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="37" column="32" lean-forward="true" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>assemblyInterpreter:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>javafx11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>assemblyInterpreter</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.antlr:antlr4-runtime:4.7.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
